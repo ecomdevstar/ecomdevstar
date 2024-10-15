@@ -24,5 +24,5 @@ Let’s take your Shopify store from "meh" to "WOW!" and have some fun along the
 
 ## Tech Stack
 
-Shopify Plus, Shopif Themes, Headless, Hugo, Shopify App, React, Redux, TailwindCSS, HTML, CSS, JavaScript, SASS
+Shopify Plus, Shopify, Headless, Hugo, Shopify App, Shopify Theme, React, Redux, TailwindCSS, HTML, CSS, JavaScript, SASS
 
