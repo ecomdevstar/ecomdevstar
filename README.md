@@ -21,6 +21,7 @@ Customizing themes and apps to make your shop as unique as a unicorn in a sea of
 I don’t just build shops; I create experiences that make customers come back for more. Whether you need a brand-new store, a revamp, or just a sprinkle of optimization magic, I’m here to make your eCommerce dreams come true!
 Let’s take your Shopify store from "meh" to "WOW!" and have some fun along the way!
 
+❤️❤️❤️
 
 ## Tech Stack
 
