@@ -6,7 +6,7 @@
 
 👋 Meet Your Shopify Wizard! 🧙
 
-With over 4 years of experience crafting magical eCommerce experiences, I’m a Shopify and Shopify Plus developer who turns complex challenges into seamless solutions faster than you can say “checkout!”
+With STRONG experiences crafting magical eCommerce experiences, I’m a Shopify and Shopify Plus developer who turns complex challenges into seamless solutions faster than you can say “checkout!”
 
 
 🌟 My Superpowers:
